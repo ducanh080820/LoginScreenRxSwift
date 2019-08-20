@@ -1,0 +1,6 @@
+framework module Pods_RXSwiftCreateLogin {
+  umbrella header "Pods-RXSwiftCreateLogin-umbrella.h"
+
+  export *
+  module * { export * }
+}
